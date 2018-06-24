@@ -1,6 +1,9 @@
 # BhvrsubDemo
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Sample Project Created as a PoC for 'BehaviorSubject' and multiple subscribers`
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
+
 
 ## Development server
 
